@@ -1,0 +1,39 @@
+#bb
+{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#login-area{
+    background-color: white;
+    padding: 30px;
+    margin-top: 60px;
+    box-shadow: 5px 5px 10px gray;
+    text-align: center;
+}
+#DontShow
+{
+    align: center;
+    display: none;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+#classSix-teachers
+{
+    display: none;
+    margin-left: 50px;
+    margin-top: 100px;
+
+}
+
+#classSeven-teachers
+{
+    display: none;
+    margin-left: 50px;
+    margin-top: 100px;
+
+}
+#classSeven-teachers
+{
+    display: none;
+}
